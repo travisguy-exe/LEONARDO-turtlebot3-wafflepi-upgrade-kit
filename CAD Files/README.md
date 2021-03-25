@@ -1,12 +1,14 @@
-# **LEONARDO - CAD FILES**
+# **LEONARDO - CAD FILES - (v80)**
 
 
 
-This folder contains the master assembly file for the LEONARDO mod kit, it is available in 2 different formats:
+This folder contains the master assembly file for the LEONARDO mod kit, it is available in 2 different formats (**.f3z** & **.step**). The image below depicts the contents of the assembly files.
 
-​			**.f3z**
 
-​			**.step**
+
+![](../images/Assembly_images/Master_Assembly.png)
+
+
 
 The LEONARDO mod kit was developed in **Fusion 360**, if this is your native CAD program I recommend downloading the **.f3z** format of the master assembly. This will provide you with the master assembly and all of the individual linked sub-assemblies. The .f3z file also contains captured design history of each part, for ease of personal modification. 
 
