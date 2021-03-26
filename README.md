@@ -4,9 +4,7 @@
 
 
 
-### **Kit Overview**
-
-------
+## **Kit Overview**
 
 The Leonardo upgrade kit is intended to increase the overall modularity and usability of the Turtlebot3. This is a valuable upgrade for anyone looking to improve the physical user friendliness, durability and modularity of their Turtlebot3 unit. The following list outlines the key features of the Leonardo Kit.
 
@@ -25,23 +23,22 @@ The Leonardo upgrade kit is intended to increase the overall modularity and usab
 
 
 
-### **Repository Overview**
-
-------
+## **Repository Overview**
 
   This repository contains all of the files and instructions necessary to upgrade a standard Turtlebot3 Waffle Pi unit, as well as, all of the CAD documentation one would require to add their own features to this upgrade kit. The following list provides detail on each of the sub-folders within this directory and where to locate relevant information within them.
 
 **Repository Folders:**
 
 - **3D Printing Files:** This folder contains all of the necessary **STL** files for printing the upgrade kit's parts.
-- **Assembly Documentation:** This folder contains detailed **Assembly Instructions** and the **Bill of Materials** required to complete this upgrade.
 - **CAD Files:** Contained within this folder are the **Fusion 360** solid models for the Leonardo Kit assembly and each of its sub-assemblies.
 
-### Bill of Materials
 
-------
+
+## Bill of Materials
 
 The following table outlines all of the required items to complete the Leonardo upgrade:
+
+
 
 | Item/Description                           | Qty. |                                              |
 | :----------------------------------------- | :--: | :------------------------------------------: |
