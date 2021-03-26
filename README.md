@@ -12,7 +12,11 @@ The Leonardo upgrade kit is intended to increase the overall modularity and usab
 
 
 
- **Kit Features:**
+![](images/LEONARDO_v80.jpg)
+
+
+
+####  **Kit Features:**
 
 - **Enclosures:** Fully 3D printable enclosures for both the Turtlebot3's **Raspberry Pi** and **OpenCR** boards, with solid mounting points.
 - **Solid LIDAR Mount:** A 3D printable solid mount for the LDS-01 LIDAR unit.
