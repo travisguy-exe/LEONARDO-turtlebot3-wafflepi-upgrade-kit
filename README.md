@@ -34,31 +34,32 @@ The Leonardo upgrade kit is intended to increase the overall modularity and usab
 **Repository Folders:**
 
 - **3D Printing Files:** This folder contains all of the necessary **STL** files for printing the upgrade kit's parts.
+
 - **CAD Files:** Contained within this folder are the **Fusion 360** and neutral **.step** solid models for the Leonardo Kit assembly and its sub-assemblies.
 
+  
 
+------
 
-## Project Log
+### Project Log
 
 The Leonardo project is still under active development and features will be added to this repository as time goes on. Please refer to this log to see what is upcoming and what has been completed.
 
-### Work In Progress
-
-------
+Work In Progress
 
 - Custom URDF and mesh files for the Leonardo Kit variant for ROS
 
 
 
-### Completed Work
-
-------
+Completed Work
 
 **2021/03/26 - Project Inception**
 
 	- CAD Files - Leonardo v80 Master Assemblies
 	- Assembly Documentation
 	- STL Files/3D Printing Documentation
+
+------
 
 
 
