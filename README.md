@@ -1,6 +1,6 @@
 # LEONARDO - Turtlebot3 (Waffle Pi) Upgrade Kit
 
-#### **A 3D printable, open-source upgrade kit for the Turtlebot3 Waffle Pi from Robotis.**
+**A 3D printable, open-source upgrade kit for the Turtlebot3 Waffle Pi from Robotis.**
 
 
 
