@@ -1,6 +1,10 @@
 # LEONARDO - Turtlebot3 (Waffle Pi) Upgrade Kit
 
-​	**A 3D printable, open-source upgrade kit for the Turtlebot3 Waffle Pi from Robotis.**
+**A 3D printable, open-source upgrade kit for the Turtlebot3 Waffle Pi from Robotis.**
+
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">LEONARDO - Turtlebot3 Waffle Pi Upgrade Kit</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/travisguy-exe/LEONARDO-turtlebot3-wafflepi-upgrade-kit" property="cc:attributionName" rel="cc:attributionURL">Travis Guy</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 
 
@@ -357,3 +361,15 @@ The final steps are to make the USB connections to both the USB2LDS module and t
 - [ ] Connect the 1.0ft micro USB cable from the Raspberry Pi unit to the OpenCR board.
 
 **NOTE:** The 1.0ft micro USB cable should be routed through the holes highlighted in **YELLOW** on the way towards the OpenCR board, this will keep the cable routing tidy and out of the way during use.
+
+
+
+## References
+
+
+
+[1] - Raspberry Pi 3B+ Case - Base design from Thingiverse user "0110-M-P" -  https://www.thingiverse.com/thing:922740
+
+
+
+[2] - Turtlebot3 CAD -  Base CAD assets from Robotis - https://cad.onshape.com/documents/179d4ba2a1f9231f93cae6e2/w/71e9066aee42d5039f880e2f/e/3cb7d487c93655e7067a3d5f
