@@ -29,12 +29,36 @@ The Leonardo upgrade kit is intended to increase the overall modularity and usab
 
 ## **Repository Overview**
 
-  This repository contains all of the files and instructions necessary to upgrade a standard Turtlebot3 Waffle Pi unit, as well as, all of the CAD documentation one would require to add their own features to this upgrade kit. The following list provides detail on each of the sub-folders within this directory and where to locate relevant information within them.
+  This repository contains all of the files and instructions necessary to upgrade a standard Turtlebot3 Waffle Pi unit, as well as, the CAD documentation that one would require to add their own features to this upgrade kit. The following list provides detail on each of the sub-folders within this directory and where to locate relevant information within them.
 
 **Repository Folders:**
 
 - **3D Printing Files:** This folder contains all of the necessary **STL** files for printing the upgrade kit's parts.
-- **CAD Files:** Contained within this folder are the **Fusion 360** solid models for the Leonardo Kit assembly and each of its sub-assemblies.
+- **CAD Files:** Contained within this folder are the **Fusion 360** and neutral **.step** solid models for the Leonardo Kit assembly and its sub-assemblies.
+
+
+
+## Project Log
+
+The Leonardo project is still under active development and features will be added to this repository as time goes on. Please refer to this log to see what is upcoming and what has been completed.
+
+### Work In Progress
+
+------
+
+- Custom URDF and mesh files for the Leonardo Kit variant for ROS
+
+
+
+### Completed Work
+
+------
+
+**2021/03/26 - Project Inception**
+
+	- CAD Files - Leonardo v80 Master Assemblies
+	- Assembly Documentation
+	- STL Files/3D Printing Documentation
 
 
 
