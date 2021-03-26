@@ -36,7 +36,7 @@ The Leonardo upgrade kit is intended to increase the overall modularity and usab
 
 ## Bill of Materials
 
-The following table outlines all of the required items to complete the Leonardo upgrade:
+The following table outlines the items required to complete the Leonardo upgrade:
 
 
 
