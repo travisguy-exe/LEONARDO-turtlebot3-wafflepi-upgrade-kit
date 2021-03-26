@@ -361,15 +361,3 @@ The final steps are to make the USB connections to both the USB2LDS module and t
 - [ ] Connect the 1.0ft micro USB cable from the Raspberry Pi unit to the OpenCR board.
 
 **NOTE:** The 1.0ft micro USB cable should be routed through the holes highlighted in **YELLOW** on the way towards the OpenCR board, this will keep the cable routing tidy and out of the way during use.
-
-
-
-## References
-
-
-
-[1] - Raspberry Pi 3B+ Case - Base design from Thingiverse user "0110-M-P" -  https://www.thingiverse.com/thing:922740
-
-
-
-[2] - Turtlebot3 CAD -  Base CAD assets from Robotis - https://cad.onshape.com/documents/179d4ba2a1f9231f93cae6e2/w/71e9066aee42d5039f880e2f/e/3cb7d487c93655e7067a3d5f
