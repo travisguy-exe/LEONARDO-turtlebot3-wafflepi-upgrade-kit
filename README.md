@@ -43,15 +43,16 @@ The Leonardo upgrade kit is intended to increase the overall modularity and usab
 
 ### Project Log
 
-The Leonardo project is still under active development and features will be added to this repository as time goes on. Please refer to this log to see what is upcoming and what has been completed.
+The Leonardo project is still under active development, which means features will be added to this repository as time goes on! Refer back to this log to see what is upcoming and what I have added!
 
-Work In Progress
+#### Work In Progress
 
-- Custom URDF and mesh files for the Leonardo Kit variant for ROS
+- Custom URDF and mesh files of the Leonardo Kit variant for ROS.
+- Youtube Assembly/Overview Video
 
 
 
-Completed Work
+#### Completed Work
 
 **2021/03/26 - Project Inception**
 
