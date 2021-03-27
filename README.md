@@ -54,7 +54,7 @@ The Leonardo project is still under active development, which means features wil
 
 #### Completed Work
 
-**2021/03/26 - Project Inception**
+2021/03/26 - Project Inception
 
 	- CAD Files - Leonardo v80 Master Assemblies
 	- Assembly Documentation
