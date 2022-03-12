@@ -83,7 +83,7 @@ The following table outlines the items required to complete the Leonardo upgrade
 
 
 
-
+<div style="page-break-after: always"></div>
 
 # **Assembly Instructions**
 
@@ -107,7 +107,7 @@ The Leonardo upgrade kit uses the **"First Layer Assembly"** from the standard T
 
 **Robotis Assembly Manual (Direct Download):** https://www.robotis.com/service/download.php?no=750
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
@@ -119,7 +119,7 @@ The Leonardo upgrade kit uses the **"First Layer Assembly"** from the standard T
 
 The Leonardo upgrade kit also uses the **"Second Layer Assembly"** from the standard Turtlebot3 Waffle Pi. Assembly instructions for the **"Second Layer Assembly"** can be found on **Pages 12-13** of the Robotis Turtlebot3 Waffle Pi Assembly Manual.  A fully assembled Second Layer is required before proceeding to **Step 3.**
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
@@ -139,7 +139,7 @@ The **Step 3** image above indicates the relevant hole locations as well as thei
 
 **NOTE:** Orientation of the second layer assembly matters from this step onwards. Be sure to follow the orientation indicators for each subsequent step.
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
@@ -153,7 +153,7 @@ The **Step 3** image above indicates the relevant hole locations as well as thei
 
 
 
-The third layer of the Leonardo upgrade kit is supported by **4 - M3x45mm Standoffs** attached to the second layer assembly. These standoffs are re-purposed hardware from the standard Turtlebot3 kit and can be obtained from such.
+The third layer of the Leonardo upgrade kit is supported by **4 - M3x45mm Standoffs** attached to the second layer assembly. These standoffs are re-purposed hardware from the standard Turtlebot3 kit and can be obtained from such. **4 - M3x16mm** fasteners will be required to attach the standoffs.
 
 The Step 4 image above indicates the correct installation location of each standoff, before installation the indicated holes must be  drilled out for an M3 free fit (3.15mm or 1/8" Drill).
 
@@ -161,7 +161,7 @@ The Step 4 image above indicates the correct installation location of each stand
 
 
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
@@ -181,7 +181,7 @@ A total of **12 - M3x8mm** screws will be required to attach the second layer to
 
 
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
@@ -199,7 +199,7 @@ The **OpenCR** board and **Raspberry Pi**  can now be installed into their respe
 
 **NOTE:** The mounting holes on the Raspberry Pi board may need to be enlarged for the M3 Nylon Screws if you have a brand new board. A 3.15mm or (1/8") drill bit will suffice for this process.
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
@@ -229,7 +229,7 @@ The **OpenCR** board and **Raspberry Pi**  can now be installed into their respe
 
   **NOTE:** It is easy to connect the camera cable backwards, ensure that the camera ribbon cable is connected in the correct orientation (Contacts on the ribbon cable facing the contacts on the port.)
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
@@ -255,7 +255,7 @@ The **OpenCR** board and **Raspberry Pi**  can now be installed into their respe
 
 
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
@@ -277,7 +277,7 @@ The third layer of the Leonardo upgrade requires only two waffle plates from the
 
 Once the waffle plates are assembled, and, before proceeding to the next step, a total of **4** pre-existing holes on the assembly must be modified. The **GREEN**  arrowed text in the **Step 9** image above indicates the relevant holes, as well, their respective drill and tap information.
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
@@ -297,7 +297,7 @@ The USB2LDS module from the standard Turtlebot3 kit can now be installed on the 
 
 
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
@@ -313,7 +313,7 @@ The USB2LDS module from the standard Turtlebot3 kit can now be installed on the 
 
 Turn the Layer 3 assembly back over and attach the LIDAR mount bracket to the top side using **4 - M3x8mm Socket Screws**.  The LIDAR bracket's mounting position corresponds with the 4 drilled and tapped holes made previously in **Step 9**.
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
@@ -337,7 +337,7 @@ See the **NOTE** below before proceeding. Attach the LDS-01 LIDAR unit from the 
 
 **NOTE:** The LIDAR unit's mounting holes will have to be modified to accept M3 sized fasteners. Drill out the 4 indicated mounting holes using a 3.15mm or (1/8") drill bit.
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
@@ -351,7 +351,7 @@ See the **NOTE** below before proceeding. Attach the LDS-01 LIDAR unit from the 
 
 Attach the third layer assembly to the standoffs that were previously installed on the second layer assembly during **Step 4**. This will require **4 - M3x8mm Socket Screws**.
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
@@ -367,7 +367,7 @@ If you plan on using the standard Pi Camera module that comes with the Turltbot3
 
 **NOTE:** See page 30 of the Robotis Turtlebot3 Waffle Pi Assembly Manual for detailed instructions on assembling the Pi Camera module.
 
-
+<div style="page-break-after: always"></div>
 
 ------
 
