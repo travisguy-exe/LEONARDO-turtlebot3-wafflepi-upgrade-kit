@@ -76,7 +76,7 @@ The following table outlines the items required to complete the Leonardo upgrade
 | 0.5 ft. Micro USB Cable                    |  1   | ![](images/BOM_images/02_05ft_micro_usb.png) |
 | 1 ft. Micro USB Cable                      |  1   | ![](images/BOM_images/03_1ft_micro_usb.png)  |
 | **M3-0.5 x 8mm** - Socket Head Cap Screw   |  16  |    ![](images/BOM_images/04_shcs_ss.png)     |
-| **M3-0.5 x 16mm** - Socket Head Cap Screw  |  12  |    ![](images/BOM_images/04_shcs_ss.png)     |
+| **M3-0.5 x 16mm** - Socket Head Cap Screw  |  16  |    ![](images/BOM_images/04_shcs_ss.png)     |
 | **M5-0.8 x 8mm** - Socket Head Cap Screw   |  4   |    ![](images/BOM_images/04_shcs_ss.png)     |
 | **M3-0.5 x 6mm** - Pan Head Screw (NYLON)  |  8   | ![](images/BOM_images/05_panhead_nylon.png)  |
 | **M3-0.5 x 12mm** - Pan Head Screw (NYLON) |  2   | ![](images/BOM_images/05_panhead_nylon.png)  |
@@ -153,7 +153,7 @@ The **Step 3** image above indicates the relevant hole locations as well as thei
 
 
 
-The third layer of the Leonardo upgrade kit is supported by **4 - M3x35mm Standoffs** attached to the second layer assembly. These standoffs are re-purposed hardware from the standard Turtlebot3 kit and can be obtained from such.
+The third layer of the Leonardo upgrade kit is supported by **4 - M3x45mm Standoffs** attached to the second layer assembly. These standoffs are re-purposed hardware from the standard Turtlebot3 kit and can be obtained from such.
 
 The Step 4 image above indicates the correct installation location of each standoff, before installation the indicated holes must be  drilled out for an M3 free fit (3.15mm or 1/8" Drill).
 
