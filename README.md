@@ -50,8 +50,6 @@ The Leonardo project is still under active development, which means features wil
 - Custom URDF and mesh files of the Leonardo Kit variant for ROS.
 - Youtube Assembly/Overview Video
 
-
-
 ### Completed Work
 
 2021/03/26 - Project Inception
@@ -59,6 +57,17 @@ The Leonardo project is still under active development, which means features wil
 	- CAD Files - Leonardo v80 Master Assemblies
 	- Assembly Documentation
 	- STL Files/3D Printing Documentation
+
+2022/03/18 - Youtube Assembly Video + CAD Model Update
+
+```
+- Assembly Video - Uploaded to Robotis OpenSourceTeam Youtube Channel
+- Assembly Instuction - PDF Printable version of assembly documentation added to repository
+- CAD Files - Leonardo Master Assembly updated to v83
+- STL Files - Updated to Reflect V83 changes:
+	 - USB relief added to OpenCR lower enclosure [02 - OpenCR Case (Lower) - (v118)]
+	 - Update to RPi upper enclosure chamfer to improve printability [05 - RPi Case (Upper) - (v57)] 
+```
 
 ------
 
