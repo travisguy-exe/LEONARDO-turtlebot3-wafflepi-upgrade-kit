@@ -73,6 +73,12 @@ The Leonardo project is still under active development, which means features wil
 
 
 
+## Assembly Video
+
+https://www.youtube.com/watch?v=VhC4pEQV8hI&t=832s
+
+
+
 ## Bill of Materials
 
 The following table outlines the items required to complete the Leonardo upgrade:
