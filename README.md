@@ -75,7 +75,7 @@ The Leonardo project is still under active development, which means features wil
 
 ## Assembly Video
 
-https://www.youtube.com/watch?v=VhC4pEQV8hI&t=832s
+<iframe width="270" height="540" src="https://www.youtube.com/embed/VhC4pEQV8hI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
